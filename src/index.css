@@ -5,7 +5,7 @@ html {
 
 body,input,select,textarea{
   font-size: 1.6rem ;
-  font-family: Verdana, Tahoma, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 
@@ -27,7 +27,7 @@ height: 100% ;
 
 header{
   grid-area: header;
-  background-image: linear-gradient(to right,rgb(164, 125, 173) , rgb(136, 142, 209));
+  background-color: #203040;
   color: #ffffff;
   display: flex;
   align-items: center;
@@ -45,7 +45,7 @@ main {
 }
 footer{
   grid-area: footer;
-  background-image: linear-gradient(to right,rgb(164, 125, 173) , rgb(136, 142, 209));
+  background-color: #203040;
   color: #ffffff;
   display: flex;
   justify-content: center;
