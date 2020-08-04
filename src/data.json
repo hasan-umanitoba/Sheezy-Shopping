@@ -1,0 +1,51 @@
+{
+    "products": [{
+            "_id": "item1",
+            "title": "Men's Trail Running Tank",
+            "description": "about the dress",
+            "image": "images/item1.jpg",
+            "price": 101,
+            "availableSizes": ["XL", "XXL", "L", "M"]
+        },
+        {
+            "_id": "item2",
+            "title": "Sportswear Club Fleece",
+            "description": "about the dress",
+            "image": "images/item2.jpg",
+            "price": 10.2,
+            "availableSizes": ["XL", "XXL", "L", "M"]
+        },
+        {
+            "_id": "item3",
+            "title": "Liverpool FC 2020 Home",
+            "description": "about the dress",
+            "image": "images/item3.jpg",
+            "price": 20.2,
+            "availableSizes": ["XL", "XXL", "L", "M"]
+        },
+        {
+            "_id": "item4",
+            "title": "F.C Barcelona 2020 Away",
+            "description": "about the dress",
+            "image": "images/item4.jpg",
+            "price": 50,
+            "availableSizes": ["XL", "XXL", "L", "M"]
+        },
+        {
+            "_id": "item5",
+            "title": "Paris Saint-Germain Away",
+            "description": "about the dress",
+            "image": "images/item5.jpg",
+            "price": 78.5,
+            "availableSizes": ["XL", "XXL", "L", "M"]
+        },
+        {
+            "_id": "item6",
+            "title": "AS Roma 2020 Away",
+            "description": "about the dress",
+            "image": "images/item6.jpg",
+            "price": 20,
+            "availableSizes": ["XL", "XXL"]
+        }
+    ]
+}
