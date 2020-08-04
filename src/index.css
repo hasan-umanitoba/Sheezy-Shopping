@@ -40,7 +40,8 @@ header {
     align-items: center;
     padding: 0.5rem;
     font-family: Sacramento;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    justify-content: center;
 }
 
 header a {
@@ -138,4 +139,19 @@ footer {
 
 .button:hover {
     border: 0.1rem #808080 solid;
+}
+
+
+/* Filtering */
+
+.filter {
+    display: flex;
+    padding: 1rem;
+    margin: 1rem;
+    justify-content: space-between;
+    border-bottom: 0.1rem #c0c0c0 solid;
+}
+
+.filter div {
+    flex: 1;
 }

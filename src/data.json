@@ -5,7 +5,7 @@
             "description": "about the dress",
             "image": "images/item1.jpg",
             "price": 101,
-            "availableSizes": ["XL", "XXL", "L", "M"]
+            "availableSizes": ["XXL", "L", "M", "S"]
         },
         {
             "_id": "item2",
@@ -13,7 +13,7 @@
             "description": "about the dress",
             "image": "images/item2.jpg",
             "price": 10.2,
-            "availableSizes": ["XL", "XXL", "L", "M"]
+            "availableSizes": ["XL", "L", "M"]
         },
         {
             "_id": "item3",
@@ -21,7 +21,7 @@
             "description": "about the dress",
             "image": "images/item3.jpg",
             "price": 20.2,
-            "availableSizes": ["XL", "XXL", "L", "M"]
+            "availableSizes": ["L", "M", "XS"]
         },
         {
             "_id": "item4",
