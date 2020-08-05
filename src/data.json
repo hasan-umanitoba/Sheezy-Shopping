@@ -2,7 +2,7 @@
     "products": [{
             "_id": "item1",
             "title": "Men's Trail Running Tank",
-            "description": "about the dress",
+            "description": "This product is made from 100% sustainable materials, using a blend of recycled polyester and organic cotton fabrics. The blend is at least 10% recycled fabric or at least 10% organic cotton fabric.",
             "image": "images/item1.jpg",
             "price": 39.9,
             "availableSizes": ["XXL", "L", "M", "S"]
@@ -10,7 +10,7 @@
         {
             "_id": "item2",
             "title": "Sportswear Club Fleece",
-            "description": "about the dress",
+            "description": "Fleece Pullover Hoodie combines classic style with the soft comfort of fleece.",
             "image": "images/item2.jpg",
             "price": 11.9,
             "availableSizes": ["XL", "L", "M"]
@@ -18,7 +18,7 @@
         {
             "_id": "item3",
             "title": "Liverpool FC 2020 Home",
-            "description": "about the dress",
+            "description": "Emblazoned with the club crest, the Liverpool FC Home SS Jersey is engineered with NB DRY, which helps wick moisture away from the skin to help keep you cool no matter what’s happening on the pitch.",
             "image": "images/item3.jpg",
             "price": 20.0,
             "availableSizes": ["L", "M", "XS"]
@@ -26,7 +26,7 @@
         {
             "_id": "item4",
             "title": "F.C Barcelona 2020 Away",
-            "description": "about the dress",
+            "description": "he FC Barcelona Stadium Third Jersey brings team pride details together with performance elements like highly breathable fabric to help you stay dry and cool. Channeling the pride of Barcelona, an allover diamond-shaped jacquard pattern is inspired by the city’s coat of arms.",
             "image": "images/item4.jpg",
             "price": 50.0,
             "availableSizes": ["XL", "XXL", "L", "M"]
@@ -34,7 +34,7 @@
         {
             "_id": "item5",
             "title": "Paris Saint-Germain Away",
-            "description": "about the dress",
+            "description": "The Paris Saint-Germain Stadium Away Jersey features team details on highly breathable fabric to help keep you cool and dry on the field or in the stands cheering for your team. The bold infrared colorway channels the influential spirit of the Parisian suburbs. Parisian youth meets a Jordan ico",
             "image": "images/item5.jpg",
             "price": 79.5,
             "availableSizes": ["XL", "XXL", "L", "M"]
@@ -42,7 +42,7 @@
         {
             "_id": "item6",
             "title": "AS Roma 2020 Away",
-            "description": "about the dress",
+            "description": "The AS Roma Stadium Away Shirt shows off your pride for everyone to see. Highly breathable fabric helps keep sweat off your skin, so you stay comfortable on the pitch or in the stands. This product is made from 100%-recycled polyester fabric.",
             "image": "images/item6.jpg",
             "price": 20.0,
             "availableSizes": ["XL", "XXL"]

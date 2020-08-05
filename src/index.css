@@ -10,8 +10,8 @@ input,
 select,
 button,
 textarea {
-    font-size: 1.6rem;
     font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
 }
 
 body,
@@ -114,6 +114,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-weight: bold;
 }
 
 .product-price div,
@@ -133,12 +134,12 @@ footer {
     cursor: pointer;
 }
 
-.button.primary {
-    background-color: #ffc000;
-}
-
 .button:hover {
     border: 0.1rem #808080 solid;
+}
+
+.button.primary {
+    background-color: #f0c040;
 }
 
 
@@ -200,6 +201,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    font-weight: bold;
 }
 
 .total>div {
