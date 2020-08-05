@@ -34,7 +34,7 @@ a {
 
 header {
     grid-area: header;
-    background-color: #203040;
+    background-image: linear-gradient(to bottom right, #203040, #beb3f5);
     color: #ffffff;
     display: flex;
     align-items: center;
@@ -59,7 +59,7 @@ main {
 
 footer {
     grid-area: footer;
-    background-color: #203040;
+    background-image: linear-gradient(to bottom right, #203040, #beb3f5);
     color: #ffffff;
     display: flex;
     justify-content: center;
